@@ -6,8 +6,22 @@ In the winter of 2024, I tore my ACL. Rehab was challenging—both physically an
 - Parses and analyzes personal walking/running data from JSON
 - Calculates total stats (distance, pace, calories, etc.)
 - Compares performance over time
-- Visualizes trends (like pace improvements 📉) (Coming Soon)
 - Helps me stay accountable and motivated
+
+## Program Structure
+- sprint-to-the-goal/
+  - data folder
+    - sprint_data.json – Walk/run recovery logs (distance, steps, calories, pace)
+  - scripts folder
+    - analyze_walks.py – Python script analyzing data & generating performance trends
+  - README.md – Overview of the project and insights
+  - visualization folder (coming soon)
+
+
+
+
+
+
 
 ## Tools Used
 - Python
