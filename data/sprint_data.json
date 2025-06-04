@@ -1,0 +1,181 @@
+[
+  {
+    "entry": 1,
+    "date": "2025-03-20",
+    "type": "Walk",
+    "distance_km": 2.41,
+    "duration_min": 30.3,
+    "avg_pace_min_per_km": 12.32,
+    "steps": 3200,
+    "calories": 190,
+    "elevation_m": 12
+  },
+  {
+    "entry": 2,
+    "date": "2025-03-24",
+    "type": "Walk",
+    "distance_km": 2.18,
+    "duration_min": 26.73,
+    "avg_pace_min_per_km": 12.25,
+    "steps": 2800,
+    "calories": 172,
+    "elevation_m": 10
+  },
+  {
+    "entry": 3,
+    "date": "2025-03-25",
+    "type": "Walk",
+    "distance_km": 2.08,
+    "duration_min": 27.58,
+    "avg_pace_min_per_km": 13.23,
+    "steps": 2700,
+    "calories": 165,
+    "elevation_m": 6
+  },
+  {
+    "entry": 4,
+    "date": "2025-03-28",
+    "type": "Walk",
+    "distance_km": 2.40,
+    "duration_min": 36.73,
+    "avg_pace_min_per_km": 15.26,
+    "steps": 3400,
+    "calories": 197,
+    "elevation_m": 6
+  },
+  {
+    "entry": 5, 
+    "date": "2025-04-01",
+    "type": "Walk",
+    "distance_km": 2.92,
+    "duration_min": 36.27,
+    "avg_pace_min_per_km": 12.24,
+    "steps": 3900,
+    "calories": 229,
+    "elevation_m": 18
+  },
+  {
+    "entry": 6,
+    "date": "2025-04-06",
+    "type": "Walk",
+    "distance_km": 1.38,
+    "duration_min": 18.82,
+    "avg_pace_min_per_km": 13.60,
+    "steps": 1900,
+    "calories": 109,
+    "elevation_m": 5
+  },
+  
+  {
+    "entry": 7,
+    "date": "2025-04-15",
+    "type": "Walk",
+    "distance_km": 2.22,
+    "duration_min": 26.13,
+    "avg_pace_min_per_km": 11.45,
+    "steps": 2800,
+    "calories": 177,
+    "elevation_m": 5
+  },
+  {
+    "entry": 8,
+    "date": "2025-05-12",
+    "type": "Walk",
+    "distance_km": 2.04,
+    "duration_min": 25.78,
+    "avg_pace_min_per_km": 12.36,
+    "steps": 2700,
+    "calories": 161,
+    "elevation_m": 3
+  },
+  {
+    "entry": 9,
+    "date": "2025-05-16",
+    "type": "Walk",
+    "distance_km": 2.07,
+    "duration_min": 24.95,
+    "avg_pace_min_per_km": 12.01,
+    "steps": 2900,
+    "calories": 164,
+    "elevation_m": 2    
+  },
+  {
+    "entry": 10,
+    "date": "2025-05-17",
+    "type": "Walk",
+    "distance_km": 2.63,
+    "duration_min": 30.47,
+    "avg_pace_min_per_km": 11.43,
+    "steps": 3300,
+    "calories": 210,
+    "elevation_m": 9
+  },
+  {
+    "entry": 11,
+    "date": "2025-05-18",
+    "type": "Walk",
+    "distance_km": 2.70,
+    "duration_min": 30.06,
+    "avg_pace_min_per_km": 11.07,
+    "steps": 3300,
+    "calories": 220,
+    "elevation_m": 5
+  },
+  {
+    "entry": 12,
+    "date" : "2025-05-27",
+    "type" : "Walk",
+    "distance_km" : 2.12,
+    "duration_min" : 24.32,
+    "avg_pace_min_per_km" : 11.32,
+    "steps" : 2500,
+    "calories" : 171,
+    "elevation_m" : 6
+  },
+  {
+    "entry": 13,
+    "date" : "2025-05-29",
+    "type" : "Walk",
+    "distance_km" : 2.33,
+    "duration_min" : 24.54,
+    "avg_pace_min_per_km" : 10.40,
+    "steps" : 2800,
+    "calories" : 191,
+    "elevation_m" : 10
+  },
+  {
+    "entry": 14,
+    "date" : "2025-05-30",
+    "type" : "Walk",
+    "distance_km" : 2.24,
+    "duration_min" : 25.07,
+    "avg_pace_min_per_km" : 11.12,
+    "steps" : 2800,
+    "calories" : 182,
+    "elevation_m" : 5
+  },
+  {
+    "entry": 15,
+    "date" : "2025-06-01",
+    "type" : "Walk",
+    "distance_km" : 2.63,
+    "duration_min" : 30.05,
+    "avg_pace_min_per_km" : 11.24,
+    "steps" : 3300,
+    "calories" : 213,
+    "elevation_m" : 7
+  },
+  {
+    "entry": 16,
+    "date" : "2025-06-02",
+    "type" : "Walk",
+    "distance_km" : 2.07,
+    "duration_min" : 22.21,
+    "avg_pace_min_per_km" : 10.46,
+    "steps" : 2400,
+    "calories" : 171,
+    "elevation_m" : 7
+  }
+
+
+]
