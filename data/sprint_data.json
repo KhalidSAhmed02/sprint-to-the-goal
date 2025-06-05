@@ -175,6 +175,18 @@
     "steps" : 2400,
     "calories" : 171,
     "elevation_m" : 7
+  },
+  {
+    "entry": 17,
+    "date" : "2025-06-04",
+    "type" : "Walk",
+    "distance_km" : 1.46,
+    "duration_min" : 15.50,
+    "avg_pace_min_per_km" : 10.51,
+    "steps" : 1700,
+    "calories" : 120,
+    "elevation_m" : 2
+
   }
 
 

@@ -1,7 +1,7 @@
 import json
 
 #Loading the data
-with open(r'C:\Users\Khali\sprint-to-the-goal\data') as file:
+with open(r'C:\Users\Khali\sprint-to-the-goal\data\sprint_data.json') as file:
     walks = json.load(file)
 
 # Basic Data Calculations
