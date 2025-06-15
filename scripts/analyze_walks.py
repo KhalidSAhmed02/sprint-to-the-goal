@@ -1,7 +1,7 @@
 import json
 
 #Loading the data
-with open(r'C:\Users\Khali\sprint-to-the-goal\data\sprint_data.json') as file:
+with open(r'C:\Users\"ADD PATH TO JSON"') as file: # Private information
     walks = json.load(file)
 
 # Basic Data Calculations
@@ -21,7 +21,7 @@ print(f"My Average Pace Maintained: {average_pace:.2f} min/km")
 print(f"Total Duration: {total_duration} minutes")
 print(f"Total Entry: {total_entry}")
 
-# Divide your data into first 5 and last 5 walks
+# Divide your data into the first 5 and the last 5 walks
 # Divide your data into two halves dynamically
 half_index = len(walks) // 2
 first_half = walks[:half_index] # First Half entry
@@ -47,7 +47,7 @@ def calculate_averages(walk_data):
 first_averages = calculate_averages(first_half)
 last_averages = calculate_averages(last_half)
 
-# Calculate how each metric changed from first 5 walks to last 5 walks
+# Calculate how each metric changed from the first 5 walks to the last 5 walks
 improvements = {
     key: last_averages[key] - first_averages[key]
     for key in first_averages

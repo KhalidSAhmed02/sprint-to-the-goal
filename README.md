@@ -1,6 +1,6 @@
 # 🏃 Sprint to the Goal
 
-In the winter of 2024, I tore my ACL. Rehab was challenging—both physically and mentally—and getting back into walking and running wasn’t easy. What started as a small joke project turned into something much more meaningful: a way to apply my growing programming skills, track my recovery, and stay motivated throughout the process. Sprint to the Goal became both a coding exercise and a personal accountability tool on my journey to full rehabilitation.
+In the winter of 2024, I tore my ACL. Rehab was challenging both physically and mentally and getting back into walking and running wasn’t easy. What started as a small joke project turned into something much more meaningful: a way to apply my growing programming skills, track my recovery, and stay motivated throughout the process. Sprint to the Goal became both a coding exercise and a personal accountability tool on my journey to full rehabilitation.
 
 ## What It Does
 - Parses and analyzes personal walking/running data from JSON
@@ -32,7 +32,7 @@ In the winter of 2024, I tore my ACL. Rehab was challenging—both physically an
 ## What I Learned
 - Data handling with JSON
 - Coding discipline and learning by trying.
-- How to turn real-life progress into engaging data projects
+- How to turn real life progress into engaging data projects
 
 ## Next Steps
 - Visualize trends
